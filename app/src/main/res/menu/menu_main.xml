@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_logout"
+        android:title="@string/logout"
+        android:orderInCategory="100"
+        android:icon="@drawable/baseline_logout_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_location"
+        android:title="Location"
+        android:icon="@drawable/baseline_map_24"
+        app:showAsAction="always"/>
+</menu>

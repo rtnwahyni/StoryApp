@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="signup">Register</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="add_a_description">Add a description</string>
+    <string name="add_story">Add Story</string>
+    <string name="story_name">Story Name</string>
+    <string name="story_description">Story description</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="title_welcome_page">Selamat datang di StoryApp!</string>
+    <string name="message_welcome_page">Ceritakan pegalaman belajar mu disini...</string>
+    <string name="title_signup_page">Regist dan ceritakan pengalaman mu!</string>
+    <string name="info_login">Sudah siap untuk ceritakan pengalaman barumu?</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="appwidget_text">StoryApp</string>
+    <string name="empty_text">This empty</string>
+    <string name="register_image_desc">Regist image</string>
+    <string name="login_image_desc">Login image</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Medan</string>
+    <string name="hybrid_type">Campuran</string>
+    <string name="location_switch">Location</string>
+</resources>
